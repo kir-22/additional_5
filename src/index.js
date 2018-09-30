@@ -1,4 +1,5 @@
 module.exports = function check(str, bracketsConfig) {
+
   // your solution
     const array = [];
     if (str.length % 2 !== 0) {
